@@ -1,4 +1,0 @@
-sugarcamp
-=========
-
-SugarCamp announcement pages

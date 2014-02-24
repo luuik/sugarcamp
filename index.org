@@ -1,0 +1,102 @@
+#+TITLE: SugarCamp #3
+#+HTML_HEAD: <link rel="stylesheet" href="sugarcamp.css" type="text/css" />
+#+OPTIONS: html-postamble:nil
+
+#+HTML: <img id="logo" src="sugarcamp3.png" />
+
+#+ATTR_HTML: :style font-size:150%;font-weight:bold;text-decoration:none;text-indent:0 :target new
+[[http://fr.amiando.com/sugarcamp3.html][Inscription libre et gratuite]]
+
+[[file:index.en.org][English version]]
+
+#+BEGIN_HTML
+<div id="twitter">
+<a href="https://twitter.com/share"
+class="twitter-share-button"
+data-lang="fr" data-size="large" data-count="yes"
+data-hashtags="sugarcamp">Tweeter</a>
+</div>
+
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+'script', 'twitter-wjs');
+</script>
+#+END_HTML
+
+#+BEGIN_HTML
+<div id="intro">
+<p>
+Le SugarCamp est une occasion unique en Europe d’échanger avec les
+acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
+mais aussi plus largement d’échanger avec ceux qui font de l’accès
+universel à une éducation libre une priorité.
+</p>
+</div>
+#+END_HTML
+
+* Quand ?
+** Samedi 12 avril 2014
+
+Le samedi sera consacré à l'ouverture vers d'autres projets : projets
+de recherche sur l'éducation et le numérique (table ronde du matin),
+projets de contenus comme [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (l'encyclopédie libre pour les 8-13
+ans) et [[http://gcompris.net][Gcompris]], atelier de découverte de la programmation avec
+[[http://scratch.mit.edu][Scratch]] (format /coding goûters/).  La journée se terminera avec une
+table ronde sur /l'enseignement de l'informatique/.
+
+*Venez avec vos enfants, il vont adorer !*
+
+** Dimanche 13 avril 2014
+
+Le dimanche sera consacré au aux discussions autour de [[http://sugarlabs.org/][Sugar]] et
+d'[[http://one.laptop.org/][OLPC]]: où en est-on du développement de la plate-forme pédagogique
+libre Sugar ?  Comment est-elle utilisée dans les différents pays ?
+Quels sont les défis techniques à relever ?  Quel est l'avenir du XO,
+l'ordinateur de la fondation OLPC, depuis qu'OLPC s'est engagé sur le
+marché des tablets ?  La fin de la journée sera consacrée à un échange
+libre autour de l'avenir des projets Sugar et OLPC.
+
+* Où ?  Au Carrefour Numérique de la Cité des Sciences
+
+: Cité des Sciences et de l'Industrie
+: 30 Avenue Corentin Cariou
+: 75019 Paris France
+
+#+CAPTION: © ubuntu-fr.org CC BY-SA v3.0
+#+ATTR_HTML: :height 200px
+[[file:feisty-paris-plan.png]]
+
+* Programme détaillé
+
+** Samedi
+
+| Table ronde « recherche » éducation/informatique | 11h00-12h30 |
+|--------------------------------------------------+-------------|
+| Atelier Vikidia et coding goûter                 | 14h00-17h00 |
+|--------------------------------------------------+-------------|
+| Table ronde « Enseignement de l'informatique »   | 17h00-18h30 |
+
+** Dimanche
+
+| Session BarCamp Sugar/OLPC          | 10h30-12h30 |
+|-------------------------------------+-------------|
+| Session BarCamp          Sugar/OLPC | 14h00-17h00 |
+|-------------------------------------+-------------|
+| Discussion « OLPC... and beyond ? » | 17h00-18h30 |
+
+* De l'espace et de la convivialité !
+
+Le carrefour numérique accueille depuis longtemps des événements liés
+au libre : l'espace se prête à la fois aux échanges à plusieurs et aux
+ateliers en petits groupes.  Ci-dessous des images des Ubuntu Party !
+
+#+CAPTION: © http://ubuntu-paris.org
+[[file:conference_13-10_v2_960x250.jpg]]
+
+#+CAPTION: © http://ubuntu-paris.org
+[[file:cours_13-10_960x250.jpg]]
+* Vous venez d'où ?
+
+#+BEGIN_HTML
+<iframe frameborder="0" width="720" height="405" src="http://www.dailymotion.com/embed/video/xct0lp" allowfullscreen></iframe>
+#+END_HTML

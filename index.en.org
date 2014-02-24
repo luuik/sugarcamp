@@ -1,0 +1,96 @@
+#+TITLE: SugarCamp #3
+#+HTML_HEAD: <link rel="stylesheet" href="sugarcamp.css" type="text/css" />
+#+OPTIONS: html-postamble:nil
+
+#+HTML: <img id="logo" src="sugarcamp3.png" />
+
+#+ATTR_HTML: :style font-size:150%;font-weight:bold;text-decoration:none;text-indent:0 :target new
+[[http://fr.amiando.com/sugarcamp3.html][Free registration]]
+
+[[file:index.org][Version française]]
+
+#+BEGIN_HTML
+<div id="twitter">
+<a href="https://twitter.com/share"
+class="twitter-share-button"
+data-lang="fr" data-size="large" data-count="yes"
+data-hashtags="sugarcamp">Tweeter</a>
+</div>
+
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+'script', 'twitter-wjs');
+</script>
+#+END_HTML
+
+* When ?
+** Saturday, April 12th 2014
+
+The saturday will be dedicated to projects surrounding OLPC and Sugar,
+with Sugar and OLPC hackers still welcome to hack (we have enough room
+for that.)  In the morning, we will have a roundtable on research
+projects, and in the afternoon, a workshop on using [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (which is
+about to be launched in english), [[http://scratch.mit.edu/][Scratch]], together with activities on
+how to learn coding (in a /coding goûter/.)  At the end of the day, we
+will have rountable on teaching and learning computer science (before
+college), with speakers from France.
+
+*Bring your children, they will love the experience!*
+
+** Sunday, April 13th 2014
+
+On the sunday, we will focus on [[http://sugarlabs.org/][Sugar]] and [[http://one.laptop.org/][OLPC]]: what are the last
+/tech news/ from Sugar and the last /community news/ from Sugar Labs?
+What about the current the use of Sugar in OLPC deployments?  What are the
+next challenges in terms of deployment and development?  What's the
+future of the XO as a learning platform, now that OLPC seems more into
+XO tablets?  The end of the day will be dedicated to informal
+discussion on the future of Sugar and OLPC.
+
+* Where ?  At the "Carrefour numérique" of the City of Sciences
+
+: Cité des Sciences et de l'Industrie
+: 30 Avenue Corentin Cariou
+: 75019 Paris France
+
+#+CAPTION: © ubuntu-fr.org CC BY-SA v3.0
+#+ATTR_HTML: :height 200px
+[[file:feisty-paris-plan.png]]
+
+* Detailed program
+
+** Saturday
+
+| Roundtable « research projects » Education/Digital  | 11h00-12h30 |
+|-----------------------------------------------------+-------------|
+| Workshop on Vikidia, Gcompris, "coding goûter", ... | 14h00-17h00 |
+|-----------------------------------------------------+-------------|
+| Roundtable « Teaching computer science ? »          | 17h00-18h30 |
+
+** Sunday
+
+| BarCamp Sugar/OLPC                             | 10h30-12h30 |
+|------------------------------------------------+-------------|
+| BarCamp Sugar/OLPC                             | 14h00-17h00 |
+|------------------------------------------------+-------------|
+| Informal discussion : « OLPC... and beyond ? » | 17h00-18h30 |
+
+* In a friendly and spacious setting !
+
+The 'Carrefour numérique' has hosted many events related to free
+software in the past. We will enjoy rooms dedicated to debates
+involving several participants as well as rooms set up to host
+workshops in small groups. Pictures of Ubuntu Parties just below!
+
+#+CAPTION: © http://ubuntu-paris.org
+[[file:conference_13-10_v2_960x250.jpg]]
+
+#+CAPTION: © http://ubuntu-paris.org
+[[file:cours_13-10_960x250.jpg]]
+* Vous venez d'où ?
+
+#+BEGIN_HTML
+<iframe frameborder="0" width="720" height="405" src="http://www.dailymotion.com/embed/video/xct0lp" allowfullscreen></iframe>
+#+END_HTML
+
+En lire plus [[http://olpc-france.org/blog/2014/02/sugarcamp-3-un-evenement-unique-sur-le-libre-et-leducation/][sur le blog d'OLPC France]].

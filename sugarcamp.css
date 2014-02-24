@@ -1,0 +1,52 @@
+@import url(http://fonts.googleapis.com/css?family=Brawler);
+
+html {
+    margin-top:2em;
+    padding:0;
+    /* background-image: url(http://bzg.fr/u/bg-body.png);     */
+}
+
+body {
+    font-family:"Brawler";
+    font-size: 14pt;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    line-height: 21pt;
+    padding:0;
+    /* word-wrap: break-word; */
+    /* -webkit-hyphens: auto; */
+    /* -moz-hyphens: auto; */
+    /* -ms-hyphens: auto; */
+    /* -o-hyphens: auto; */
+    /* hyphens: auto; */
+}
+
+h1.title {display:none}
+
+.figure p {
+    font-size:80%;
+    margin:0;
+    padding:.3em;
+}
+
+img#logo {
+    max-height:200px;
+    position: absolute;
+    top:20px;
+    right: 30px;
+    z-index:-100;
+}
+
+#intro {
+    font-size:110%;
+    border-radius: 10px;
+    background-color: #EEE;
+    padding:.5em 1em .5em 1em;
+    width:70%;
+    margin:auto;
+    margin-top:1em;
+    z-index:1000;
+}
+
+/* p {text-indent: 1em;} */
