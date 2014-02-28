@@ -29,8 +29,20 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 Le SugarCamp est une occasion unique en Europe d’échanger avec les
 acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
 mais aussi plus largement d’échanger avec ceux qui font de l’accès
-universel à une éducation libre une priorité.
-</p>
+universel à une éducation libre une priorité.</p>
+
+<p>L'événement sera constitué de sessions de présentation, de tables-rondes et d'ateliers.
+Trois thématiques seront abordés:</p>
+
+<ul>
+<li>Recherche</li>
+<li>Déploiement</li>
+<li>Technique</li>
+</ul>
+
+<p>Le samedi abordera plus spécifiquement les problématiques de recherche, le retour d'expérience sur des déploiements et l'ouverture vers d'autres projets.</p>
+
+<p>Le dimanche sera plus orienté vers les problématiques techniques.</p>
 </div>
 #+END_HTML
 
@@ -68,7 +80,22 @@ libre autour de l'avenir des projets Sugar et OLPC.
 
 * Programme détaillé
 
-** Samedi
+| Heure       | SAMEDI                                                                          | DIMANCHE                                            |
+|-------------+---------------------------------------------------------------------------------+-----------------------------------------------------|
+| 10H-10H30   | Welcome coffee                                                                  | Welcome coffee                                      |
+| 10H30-11H   | Keynote Walter Bender                                                           | Keynote Manuel Quinones                             |
+| 11H-12H     | Using XO for learning exact number: the Mundurucu project                       | Sugarizer: what if Sugar could be on every device ? |
+| 12H-13H     | Teachers engagement in technology, feedbacks from Nosy Komba and St Denis study | GCompris to reborn itself in Qt Quick               |
+|-------------+---------------------------------------------------------------------------------+-----------------------------------------------------|
+| 13H-14H     | Lunch break                                                                     | Lunch break                                         |
+|-------------+---------------------------------------------------------------------------------+-----------------------------------------------------|
+| 14H-15H     | Data analysis: what we learn from backup of 100 XO in Nosy Komba during 3 years | Nosy Komba on Internet: what's new 3 years later?   |
+| 15H-16H     | The XO unleashed kids in Haïti                                                  | ...                                                 |
+| 16H-16H15   | Break Coding Goûter                                                             | Break                                               |
+| 16H15-17H15 | OLPC… and beyond: what's next for the 8 coming years ? Coding Goûter            | ...                                                 |
+| 17H15-18H15 | Enseignement de l'informatique à l'école: pourquoi ?                            | ...                                                 |
+
+** COMMENT Samedi
 
 | Table ronde « recherche » éducation/informatique | 11h00-12h30 |
 |--------------------------------------------------+-------------|
@@ -76,13 +103,14 @@ libre autour de l'avenir des projets Sugar et OLPC.
 |--------------------------------------------------+-------------|
 | Table ronde « Enseignement de l'informatique »   | 17h00-18h30 |
 
-** Dimanche
+** COMMENT Dimanche
 
 | Session BarCamp Sugar/OLPC          | 10h30-12h30 |
 |-------------------------------------+-------------|
 | Session BarCamp          Sugar/OLPC | 14h00-17h00 |
 |-------------------------------------+-------------|
 | Discussion « OLPC... and beyond ? » | 17h00-18h30 |
+
 
 * De l'espace et de la convivialité !
 
