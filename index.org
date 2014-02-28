@@ -30,21 +30,23 @@ Le SugarCamp est une occasion unique en Europe d’échanger avec les
 acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
 mais aussi plus largement d’échanger avec ceux qui font de l’accès
 universel à une éducation libre une priorité.</p>
-
-<p>L'événement sera constitué de sessions de présentation, de tables-rondes et d'ateliers.
-Trois thématiques seront abordés:</p>
-
-<ul>
-<li>Recherche</li>
-<li>Déploiement</li>
-<li>Technique</li>
-</ul>
-
-<p>Le samedi abordera plus spécifiquement les problématiques de recherche, le retour d'expérience sur des déploiements et l'ouverture vers d'autres projets.</p>
-
-<p>Le dimanche sera plus orienté vers les problématiques techniques.</p>
 </div>
 #+END_HTML
+
+L'événement sera constitué de sessions de présentation, de
+tables-rondes et d'ateliers.
+
+Trois thématiques seront abordés:
+
+- Recherche
+- Déploiement
+- Technique
+
+Le samedi abordera plus spécifiquement les problématiques de
+recherche, le retour d'expérience sur des déploiements et l'ouverture
+vers d'autres projets.
+
+Le dimanche sera plus orienté vers les problématiques techniques.
 
 * Quand ?
 ** Samedi 12 avril 2014
