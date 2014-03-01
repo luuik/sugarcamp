@@ -23,8 +23,8 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 </script>
 #+END_HTML
 
-* When ?
-** Saturday, April 12th 2014
+* When?
+** Saturday, April 12th 2014			    :Research:Deployments:OLPC:
 
 The saturday will be dedicated to projects surrounding OLPC and Sugar,
 with Sugar and OLPC hackers still welcome to hack (we have enough room
@@ -37,7 +37,7 @@ college), with speakers from France.
 
 *Bring your children, they will love the experience!*
 
-** Sunday, April 13th 2014
+** Sunday, April 13th 2014				      :Tech:Sugar:
 
 On the sunday, we will focus on [[http://sugarlabs.org/][Sugar]] and [[http://one.laptop.org/][OLPC]]: what are the last
 /tech news/ from Sugar and the last /community news/ from Sugar Labs?
@@ -47,7 +47,7 @@ future of the XO as a learning platform, now that OLPC seems more into
 XO tablets?  The end of the day will be dedicated to informal
 discussion on the future of Sugar and OLPC.
 
-* Where ?  At the "Carrefour numérique" of the City of Sciences
+* Where?  At the "Carrefour numérique" of the City of Sciences
 
 : Cité des Sciences et de l'Industrie
 : 30 Avenue Corentin Cariou

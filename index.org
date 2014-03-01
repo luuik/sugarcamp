@@ -30,26 +30,15 @@ Le SugarCamp est une occasion unique en Europe d’échanger avec les
 acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
 mais aussi plus largement d’échanger avec ceux qui font de l’accès
 universel à une éducation libre une priorité.</p>
+
+<p>L'événement sera constitué de sessions de présentation, de
+tables-rondes et d'ateliers.</p>
 </div>
 #+END_HTML
 
-L'événement sera constitué de sessions de présentation, de
-tables-rondes et d'ateliers.
-
-Trois thématiques seront abordés:
-
-- Recherche
-- Déploiement
-- Technique
-
-Le samedi abordera plus spécifiquement les problématiques de
-recherche, le retour d'expérience sur des déploiements et l'ouverture
-vers d'autres projets.
-
-Le dimanche sera plus orienté vers les problématiques techniques.
 
 * Quand ?
-** Samedi 12 avril 2014
+** Samedi 12 avril 2014			     :Recherche:Déploiements:OLPC:
 
 Le samedi sera consacré à l'ouverture vers d'autres projets : projets
 de recherche sur l'éducation et le numérique (table ronde du matin),
@@ -60,7 +49,7 @@ table ronde sur /l'enseignement de l'informatique/.
 
 *Venez avec vos enfants, il vont adorer !*
 
-** Dimanche 13 avril 2014
+** Dimanche 13 avril 2014				 :Tech:Sugar:
 
 Le dimanche sera consacré au aux discussions autour de [[http://sugarlabs.org/][Sugar]] et
 d'[[http://one.laptop.org/][OLPC]]: où en est-on du développement de la plate-forme pédagogique
