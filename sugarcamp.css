@@ -61,3 +61,39 @@ img#logo {
 /* .D_ploiements {background-color:# */
 
 /* p {text-indent: 1em;} */
+
+table tr th, table tr th a, table tr th a:hover {
+	color: #fff;
+	font-weight: bold;
+}
+table {  
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 0.857em;
+	border-collapse: separate;
+	border-spacing: 2px;
+	border-color: gray;
+}
+th {
+	border-bottom: 3px solid #ccc;
+}
+tr td, tr th {
+	padding: 4px 9px;
+	border: 1px solid #fff;
+}
+table tr th {
+	background: rgba(0, 0, 0, 0.51);
+	border-bottom-style: none;
+}
+.time {
+	color: #777;
+	text-align: right;
+	vertical-align: top;
+	margin: 0;
+}
+.item-content { padding: 0px; margin: 0px 3px; background-image: none; background-color: rgb(255, 255, 204); border: none; color: rgb(119, 119, 119); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-position: initial initial; background-repeat: initial initial; }
+.item-link { color: rgb(0, 113, 179); text-decoration: none; font-weight: bold; background-image: none; border: none; padding: 0px; margin: 0px 3px; background-position: initial initial; background-repeat: initial initial; }
+.item-sub { padding: 0px; margin: 0px 3px; background-image: none; border: none; background-position: initial initial; background-repeat: initial initial;}
+.keynote-content { padding: 0px; margin: 0px 3px; background-image: none; background-color: rgb(178, 251, 139); border: none; color: rgb(119, 119, 119); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-position: initial initial; background-repeat: initial initial; }
+.round-content { padding: 0px; margin: 0px 3px; background-image: none; background-color: rgb(204, 204, 255); border: none; color: rgb(119, 119, 119); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-position: initial initial; background-repeat: initial initial; }
+.workshop-content { padding: 0px; margin: 0px 3px; background-image: none; background-color: rgb(250, 160, 160); border: none; color: rgb(119, 119, 119); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-position: initial initial; background-repeat: initial initial; }
+.break-content { padding: 0px; margin: 0px 3px; background-image: none; background-color: #d7d6d6; border: none; color: rgb(119, 119, 119); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 15px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-position: initial initial; background-repeat: initial initial; }
