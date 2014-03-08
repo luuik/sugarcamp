@@ -23,6 +23,25 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 </script>
 #+END_HTML
 
+#+BEGIN_HTML
+<div id="intro">
+<p>
+The SugarCamp is an unique opportunity in Europe to exchange with contributors
+and volunteers on the OLPC project and the Sugar Free learning platform but also 
+with every pepole that do a priority to an universal access to a free education.
+</p>
+<p>
+The event will be composed of presentations, round tables and workshops.
+Three topics will be discussed:
+</p>
+<ul>
+<li>Research,</li>
+<li>Deployment,</li>
+<li>Technical.</li>
+</ul>
+</div>
+#+END_HTML
+
 * When ?
 ** Saturday, April 12th 2014
 

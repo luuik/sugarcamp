@@ -33,12 +33,13 @@ universel à une éducation libre une priorité.
 </p>
 <p>
 L'événement sera constitué de sessions de présentation, de tables-rondes et d'ateliers. 
-Trois thématiques seront abordés:</p>
-* Recherche
-* Déploiement
-* Technique
-<p>
+Trois thématiques seront abordés:
 </p>
+<ul>
+<li>Recherche,</li>
+<li>Déploiement,</li>
+<li>Technique.</li>
+</ul>
 </div>
 #+END_HTML
 
