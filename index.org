@@ -25,14 +25,12 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 #+BEGIN_HTML
 <div id="intro">
-<p>
-Le SugarCamp est une occasion unique en Europe d’échanger avec les
-acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
-mais aussi plus largement d’échanger avec ceux qui font de l’accès
-universel à une éducation libre une priorité.</p>
-
-<p>L'événement sera constitué de sessions de présentation, de
-tables-rondes et d'ateliers.</p>
+  <p>
+    Le SugarCamp est une occasion unique en Europe d’échanger avec les
+    acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
+    mais aussi plus largement d’échanger avec ceux qui font de l’accès
+    universel à une éducation libre une priorité.
+  </p>
 </div>
 #+END_HTML
 
@@ -40,11 +38,12 @@ tables-rondes et d'ateliers.</p>
 * Quand ?
 ** Samedi 12 avril 2014			     :Recherche:Déploiements:OLPC:
 
-Le samedi abordera plus spécifiquement les problématiques de recherche, le retour d'expérience sur des déploiements 
-et l'ouverture vers d'autres projets  de contenus comme [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (l'encyclopédie libre pour les 8-13
-ans) et un atelier de découverte de la programmation avec
-[[http://scratch.mit.edu][Scratch]] (format /coding goûters/).  La journée se terminera avec une
-table ronde sur /l'enseignement de l'informatique/.
+Le samedi abordera plus spécifiquement les problématiques de
+recherche, le retour d'expérience sur des déploiements et l'ouverture
+vers d'autres projets de contenus comme [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (l'encyclopédie libre
+pour les 8-13 ans) et un atelier de découverte de la programmation
+avec [[http://scratch.mit.edu][Scratch]] (format /coding goûters/).  La journée se terminera avec
+une table ronde sur /l'enseignement de l'informatique/.
 
 *Venez avec vos enfants, il vont adorer !*
 
