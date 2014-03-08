@@ -26,11 +26,8 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 * When ?
 ** Saturday, April 12th 2014
 
-The saturday will be dedicated to projects surrounding OLPC and Sugar,
-with Sugar and OLPC hackers still welcome to hack (we have enough room
-for that.)  In the morning, we will have a roundtable on research
-projects, and in the afternoon, a workshop on using [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (which is
-about to be launched in english), [[http://scratch.mit.edu/][Scratch]], together with activities on
+The saturday will talk more specifically about research, deployment feedbacks and surrounding projects [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (which is
+just launched in english), [[http://scratch.mit.edu/][Scratch]], together with activities on
 how to learn coding (in a /coding goûter/.)  At the end of the day, we
 will have rountable on teaching and learning computer science (before
 college), with speakers from France.
@@ -39,13 +36,12 @@ college), with speakers from France.
 
 ** Sunday, April 13th 2014
 
-On the sunday, we will focus on [[http://sugarlabs.org/][Sugar]] and [[http://one.laptop.org/][OLPC]]: what are the last
-/tech news/ from Sugar and the last /community news/ from Sugar Labs?
-What about the current the use of Sugar in OLPC deployments?  What are the
-next challenges in terms of deployment and development?  What's the
-future of the XO as a learning platform, now that OLPC seems more into
-XO tablets?  The end of the day will be dedicated to informal
-discussion on the future of Sugar and OLPC.
+On sunday, we will focus on technical discussion about [[http://sugarlabs.org/][Sugar]] and [[http://one.laptop.org/][OLPC]]. We could exchange too with the [[http://gcompris.net][Gcompris]] platform team.
+
+** Pre/Post event
+
+We have enough room for Sugar and OLPC hackers that would like to hack/talk on Friday & Monday before and after the event.
+Please register to the event and tell us if you want to participate to the Pre/Post event.
 
 * Where ?  At the "Carrefour numérique" of the City of Sciences
 
@@ -59,21 +55,296 @@ discussion on the future of Sugar and OLPC.
 
 * Detailed program
 
-** Saturday
-
-| Roundtable « research projects » Education/Digital  | 11h00-12h30 |
-|-----------------------------------------------------+-------------|
-| Workshop on Vikidia, Gcompris, "coding goûter", ... | 14h00-17h00 |
-|-----------------------------------------------------+-------------|
-| Roundtable « Teaching computer science ? »          | 17h00-18h30 |
-
-** Sunday
-
-| BarCamp Sugar/OLPC                             | 10h30-12h30 |
-|------------------------------------------------+-------------|
-| BarCamp Sugar/OLPC                             | 14h00-17h00 |
-|------------------------------------------------+-------------|
-| Informal discussion : « OLPC... and beyond ? » | 17h00-18h30 |
+#+BEGIN_HTML
+    <table>
+        <thead>
+            <tr>
+                <th>Heure</th><th colspan="2">SATURDAY</th><th>SUNDAY</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="time">10h</td><td colspan="2">
+                    <div class="break-content">
+                        <span><a href="#" class="item-link">Welcome Cofee</a></span>
+                    </div>
+                <div class="break-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">10h to 10h30</span>
+                    &nbsp;</div>
+                </div>
+                </td><td>
+                    <div class="break-content">
+                        <span><a href="#" class="item-link">Welcome Cofee</a></span>
+                    </div>
+                <div class="break-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">10h to 10h30</span>
+                    &nbsp;</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">10h30</td><td colspan="2">
+                    <div class="keynote-content">
+                        <span><a href="#Keynote1" class="item-link">Keynote 1</a></span>
+                    </div>
+                <div class="keynote-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">10h30 to 11h - in English</span>
+                    &nbsp;</div>
+                </div>
+                <div class="keynote-content">
+                    <div class="item-sub">
+                        Walter (to confirm)</div>
+                </div>
+                </td><td>
+                    <div class="keynote-content">
+                        <span><a href="#Keynote2" class="item-link">Keynote 2</a></span></div>
+                <div class="keynote-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">10h30 to 11h - in English</span>
+                    </div>
+                </div>
+                <div class="keynote-content">
+                    <div class="item-sub">
+                        Manuel (to confirm)</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">11h</td><td colspan="2">
+                    <div class="item-content">
+                        <span><a href="#Mundurucu" class="item-link">Learning number with the XO: Mundurucu project</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">11h to 12h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Manuela, Toussaint (to confirm)</div>
+                </div>
+                </td><td>
+                    <div class="item-content">
+                        <span><a href="#GCompris" class="item-link">GCompris to reborn itself in Qt Quick</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">11h to 12h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Bruno</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">12h</td><td colspan="2">
+                    <div class="item-content">
+                        <span><a href="#TeacherEngagement" class="item-link">Teachers engagement in technology</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">12h to 13h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Sandra, Clara</div>
+                </div>
+                </td><td>
+                    <div class="item-content">
+                        <span><a href="#Sugarizer" class="item-link">Sugarizer: what if Sugar could be on every device ?</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">12h to 13h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Lionel</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">13h</td><td colspan="2">
+                    <div class="break-content">
+                        <span><a href="#" class="item-link">Lunch Break</a></span>
+                    </div>
+                <div class="break-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">13h to 14h</span>
+                    &nbsp;</div>
+                </div>
+                </td><td>
+                    <div class="break-content">
+                        <span><a href="#" class="item-link">Lunch Break</a></span>
+                    </div>
+                <div class="break-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">13h to 14h</span>
+                    </div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">14h</td><td>
+                    <div class="item-content">
+                        <span><a href="#DataAnalysis" class="item-link">Data analysis: learn from 100 XO during 3 years</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">14h to 15h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Pierre, Kevin</div>
+                </div>
+                </td><td rowspan="4" class="workshop-content">
+                    <div class="workshop-content">
+                        <span><a href="#Gouter" class="item-link">Coding goûter</a></span>
+                    </div>
+                <div class="workshop-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">14h to 17h - in French</span>
+                    </div>
+                </div>
+                <div class="workshop-content">
+                    <div class="item-sub">
+                        </div>
+                </div>
+            </div>
+                </td><td>
+                    <div class="item-content">
+                        <span><a href="#NosyKomba" class="item-link">Nosy Komba on Internet: what's new 3 years later</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">14h to 15h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Xavier, Jonathan</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">15h</td><td>
+                    <div class="item-content">
+                        <span><a href="#Haiti" class="item-link">The XO unleashed kids in Haïti</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">15h to 16h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Adam, Mark (to confirm)</div>
+                </div>
+                </td><td>
+                    <div class="item-content">
+                        <span><a href="#Vikidia" class="item-link">Vikidia, a counterpart of Wikipedia for children</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">15h to 16h - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Mathias</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">16h</td><td>
+                    <div class="break-content">
+                        <span><a href="#" class="item-link">Break</a></span>
+                    </div>
+                <div class="break-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">16h to 16h15</span>
+                    </div>
+                </div>
+                </td><td>
+                    <div class="break-content">
+                        <span><a href="#" class="item-link">Break</a></span>
+                    </div>
+                <div class="break-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">16h to 16h15</span>
+                    </div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">16h15</td><td>
+                    <div class="round-content">
+                        <span><a href="#Beyond" class="item-link">Beyond OLPC and Sugar</a></span>
+                    </div>
+                <div class="round-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">16h15 to 17h15 - in English</span>
+                    </div>
+                </div>
+                <div class="round-content">
+                    <div class="item-sub">
+                        Christoph, Bastien</div>
+                </div>
+                </td><td>
+                    <div class="item-content">
+                        <span><a href="#Reading" class="item-link">Software to learn reading, myths and reality</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">16h15 to 17h15 - in English</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        Pierre</div>
+                </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="time">17h15</td><td colspan="2">
+                    <div class="round-content">
+                        <span><a href="#Informatique" class="item-link">Enseignement de l'informatique à l'école ?</a></span>
+                    </div>
+                <div class="round-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">17h15 to 18h15 - in French</span>
+                    </div>
+                </div>
+                <div class="round-content">
+                    <div class="item-sub">
+                        Bastien</div>
+                </div>
+                </td><td>
+                    <div class="item-content">
+                        <span><a href="#" class="item-link">?</a></span>
+                    </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                        <span style="font-weight: bold;">16h15 to 18h15</span>
+                    </div>
+                </div>
+                <div class="item-content">
+                    <div class="item-sub">
+                       </div>
+                </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+#+END_HTML
 
 * In a friendly and spacious setting !
 
