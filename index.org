@@ -25,36 +25,29 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 #+BEGIN_HTML
 <div id="intro">
-<p>
-Le SugarCamp est une occasion unique en Europe d’échanger avec les
-acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
-mais aussi plus largement d’échanger avec ceux qui font de l’accès
-universel à une éducation libre une priorité.
-</p>
-<p>
-L'événement sera constitué de sessions de présentation, de tables-rondes et d'ateliers. 
-Trois thématiques seront abordés:
-</p>
-<ul>
-<li>Recherche,</li>
-<li>Déploiement,</li>
-<li>Technique.</li>
-</ul>
+  <p>
+    Le SugarCamp est une occasion unique en Europe d’échanger avec les
+    acteurs du projet OLPC et de la plate-forme pédagogique libre Sugar,
+    mais aussi plus largement d’échanger avec ceux qui font de l’accès
+    universel à une éducation libre une priorité.
+  </p>
 </div>
 #+END_HTML
 
-* Quand ?
-** Samedi 12 avril 2014
 
-Le samedi abordera plus spécifiquement les problématiques de recherche, le retour d'expérience sur des déploiements 
-et l'ouverture vers d'autres projets  de contenus comme [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (l'encyclopédie libre pour les 8-13
-ans) et un atelier de découverte de la programmation avec
-[[http://scratch.mit.edu][Scratch]] (format /coding goûters/).  La journée se terminera avec une
-table ronde sur /l'enseignement de l'informatique/.
+* Quand ?
+** Samedi 12 avril 2014			     :Recherche:Déploiements:OLPC:
+
+Le samedi abordera plus spécifiquement les problématiques de
+recherche, le retour d'expérience sur des déploiements et l'ouverture
+vers d'autres projets de contenus comme [[http://fr.vikidia.org/wiki/Accueil][Vikidia]] (l'encyclopédie libre
+pour les 8-13 ans) et un atelier de découverte de la programmation
+avec [[http://scratch.mit.edu][Scratch]] (format /coding goûters/).  La journée se terminera avec
+une table ronde sur /l'enseignement de l'informatique/.
 
 *Venez avec vos enfants, il vont adorer !*
 
-** Dimanche 13 avril 2014
+** Dimanche 13 avril 2014				 :Tech:Sugar:
 
 Le dimanche sera plus orienté vers les problématiques techniques et aux discussions autour de [[http://sugarlabs.org/][Sugar]] et
 d'[[http://one.laptop.org/][OLPC]]. Nous aurons également d'échanger sur la plate-forme [[http://gcompris.net][Gcompris]].

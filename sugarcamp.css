@@ -49,6 +49,17 @@ img#logo {
     z-index:1000;
 }
 
+.tag {
+    float:right;
+    padding:.3em;
+    border-radius:3px;
+    color:green;
+    font-size:90%;
+    background-color:#eee;
+}
+
+/* .D_ploiements {background-color:# */
+
 /* p {text-indent: 1em;} */
 
 table tr th, table tr th a, table tr th a:hover {
