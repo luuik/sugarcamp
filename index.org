@@ -53,6 +53,12 @@ table ronde sur /l'enseignement de l'informatique/.
 Le dimanche sera plus orienté vers les problématiques techniques et aux discussions autour de [[http://sugarlabs.org/][Sugar]] et
 d'[[http://one.laptop.org/][OLPC]]. Nous aurons également d'échanger sur la plate-forme [[http://gcompris.net][Gcompris]].
 
+** Pré/Post événement
+
+Nous avons prévu un lieu pour les hackers de Sugar et d'OLPC qui voudraient hacker/echanger le Vendredi et le Lundi avant et après l'événement.
+Merci de vous enregistrer à l'événement et de nous préciser si vous voulez participer à ces Pré/Post événements.
+
+
 * Où ?  Au Carrefour Numérique de la Cité des Sciences
 
 : Cité des Sciences et de l'Industrie
