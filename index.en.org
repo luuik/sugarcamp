@@ -30,6 +30,10 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
     and volunteers on the OLPC project and the Sugar free learning platform, but also
     with everyone who makes universal access to free education a priority.
   </p>
+
+  <p>
+    The event will be comprised of presentations, roundtables and workshops.
+  </p>
 </div>
 #+END_HTML
 
