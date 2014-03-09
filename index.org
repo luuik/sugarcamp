@@ -49,8 +49,8 @@ une table ronde sur /l'enseignement de l'informatique/.
 
 ** Dimanche 13 avril 2014				 :Tech:Sugar:
 
-Le dimanche sera plus orienté vers les problématiques techniques et aux discussions autour de [[http://sugarlabs.org/][Sugar]] et
-d'[[http://one.laptop.org/][OLPC]]. Nous aurons également d'échanger sur la plate-forme [[http://gcompris.net][Gcompris]].
+Le dimanche sera plus orienté vers les problématiques techniques et sur les discussions autour de [[http://sugarlabs.org/][Sugar]] et
+d'[[http://one.laptop.org/][OLPC]]. Nous aurons également l'occasion d'échanger sur la plate-forme [[http://gcompris.net][Gcompris]].
 
 ** Pré/Post événement
 
